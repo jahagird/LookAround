@@ -1,7 +1,7 @@
 LookAround
 ==========
 
-AngularJS  Learning Playground ( with some more items like Twitter bootstrap, Google maps API, TDD using Karma runner ) 
+AngularJS  Learning Playground ( with some more items like Twitter bootstrap, Google maps API, TDD using Karma runner ) Kiran changes
 
 ![LookAround Demo](https://raw.github.com/shidhincr/LookAround/master/demo/home.png)
 
